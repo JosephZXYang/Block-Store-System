@@ -24,7 +24,7 @@ The disk layer is the base of the system. There could be multiple layers on top 
 
 3. RAM layer: this layer simulates the RAM memory structure.
 
-==============================================================================================================================================
+===================================================================================================================
 
 All layers are block store objects (defined in block_store.h). A block store has the following interface:
 
